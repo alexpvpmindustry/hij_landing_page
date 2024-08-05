@@ -33,4 +33,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://highimpactjournal.org.sitemap.html
+Sitemap: https://highimpactjournal.org/sitemap.html
